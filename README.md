@@ -1,2 +1,3 @@
 # hello-world
-just another  repository
+
+Hi,i am happy to make friends with you!
